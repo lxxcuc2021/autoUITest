@@ -1,0 +1,35 @@
+2021-09-01 16:47:49,292 - testcase - INFO - 获取测试数据
+2021-09-01 16:47:57,776 - BasePage - INFO - 打开默认页面
+2021-09-01 16:47:57,793 - BasePage - INFO - find the element successful
+2021-09-01 16:47:57,910 - BasePage - INFO - type tynam123 in inputbox
+2021-09-01 16:47:57,925 - BasePage - INFO - find the element successful
+2021-09-01 16:48:03,587 - BasePage - INFO - find the element successful
+2021-09-01 16:48:03,726 - BasePage - INFO - type ad min@tynam.com in inputbox
+2021-09-01 16:48:03,736 - BasePage - INFO - find the element successful
+2021-09-01 16:48:03,864 - BasePage - INFO - type tynam123 in inputbox
+2021-09-01 16:48:03,875 - BasePage - INFO - find the element successful
+2021-09-01 16:48:09,289 - BasePage - INFO - find the element successful
+2021-09-01 16:48:09,436 - BasePage - INFO - type admin@tynam.com in inputbox
+2021-09-01 16:48:09,457 - BasePage - INFO - find the element successful
+2021-09-01 16:48:14,866 - BasePage - INFO - find the element successful
+2021-09-01 16:48:15,188 - BasePage - INFO - type admin@tynam.com in inputbox
+2021-09-01 16:48:15,204 - BasePage - INFO - find the element successful
+2021-09-01 16:48:15,398 - BasePage - INFO - type 1 in inputbox
+2021-09-01 16:48:15,432 - BasePage - INFO - find the element successful
+2021-09-01 16:48:20,715 - BasePage - INFO - find the element successful
+2021-09-01 16:48:20,856 - BasePage - INFO - type admin@tynam.com in inputbox
+2021-09-01 16:48:20,871 - BasePage - INFO - find the element successful
+2021-09-01 16:48:21,000 - BasePage - INFO - type 111111 in inputbox
+2021-09-01 16:48:21,018 - BasePage - INFO - find the element successful
+2021-09-01 16:48:26,668 - BasePage - INFO - find the element successful
+2021-09-01 16:48:27,003 - BasePage - INFO - type admin1@tynam.com in inputbox
+2021-09-01 16:48:27,035 - BasePage - INFO - find the element successful
+2021-09-01 16:48:27,337 - BasePage - INFO - type tynam123 in inputbox
+2021-09-01 16:48:27,366 - BasePage - INFO - find the element successful
+2021-09-01 16:48:33,092 - BasePage - INFO - find the element successful
+2021-09-01 16:48:33,437 - BasePage - INFO - type admin@tynam.com in inputbox
+2021-09-01 16:48:33,479 - BasePage - INFO - find the element successful
+2021-09-01 16:48:33,755 - BasePage - INFO - type tynam123 in inputbox
+2021-09-01 16:48:33,798 - BasePage - INFO - find the element successful
+2021-09-01 16:48:43,644 - testcase - INFO - 退出浏览器
+2021-09-01 16:48:46,143 - sendEmail - INFO - 邮件发送成功
